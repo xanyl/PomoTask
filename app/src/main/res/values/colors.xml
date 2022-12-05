@@ -150,4 +150,5 @@
     <color name="Navy">#000080</color>
     <color name="Black">#000000</color>
     <color name="colorTextView">#707070</color>
+    <color name="background_color">#009688</color>
 </resources>
