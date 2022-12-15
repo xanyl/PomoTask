@@ -20,7 +20,7 @@
             android:layout_alignParentRight="true"
             android:layout_gravity="top|end"
             android:layout_margin="4dp"
-            android:contentDescription="@string/closebutton"
+            android:contentDescription="@string/closeButton"
             android:padding="5dp"
             android:src="@drawable/ic_baseline_close_24" />
 
